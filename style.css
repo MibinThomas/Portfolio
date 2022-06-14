@@ -1,0 +1,20 @@
+.whatsapp_float{
+    position: fixed;
+    bottom: 210px;px;
+    right: 5px;;
+}
+.facebook_float{
+    position: fixed;
+    bottom: 255px;
+    right: 5px;
+}
+.instagram_float{
+    position: fixed;
+    bottom: 300px;
+    right: 5px;;
+}
+.mail_float{
+    position: fixed;
+    bottom: 345px;
+    right: 5px;
+}
