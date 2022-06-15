@@ -1,7 +1,8 @@
 .whatsapp_float{
-    position: fixed;
-    bottom: 210px;px;
-    right: 5px;;
+    position:fixed;
+    bottom: 210px;
+    right: 5px;
+    
 }
 .facebook_float{
     position: fixed;
@@ -17,4 +18,10 @@
     position: fixed;
     bottom: 345px;
     right: 5px;
+}
+.big-banner{
+    background-image:url("images/banner.jpg");
+    background-size:100%;
+    background-repeat: no-repeat;
+    background-size: cover;
 }
